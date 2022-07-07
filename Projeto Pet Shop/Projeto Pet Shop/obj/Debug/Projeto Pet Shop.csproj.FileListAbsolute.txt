@@ -1,0 +1,16 @@
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\bin\Debug\Projeto Pet Shop.exe.config
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\bin\Debug\Projeto Pet Shop.exe
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\bin\Debug\Projeto Pet Shop.pdb
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto Pet Shop.csproj.AssemblyReference.cache
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto Pet Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto_Pet_Shop.Form1.resources
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto_Pet_Shop.frmCadClientes.resources
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto_Pet_Shop.Properties.Resources.resources
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto Pet Shop.csproj.GenerateResource.cache
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto Pet Shop.exe
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto Pet Shop.pdb
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto_Pet_Shop.frmCadAgendamentos.resources
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto_Pet_Shop.frmCadAnimais.resources
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto_Pet_Shop.frmCadRacas.resources
+C:\Users\Eduardo.santos\Documents\Programação\C#Projetos\PetShop\Projeto Pet Shop\Projeto Pet Shop\obj\Debug\Projeto_Pet_Shop.frmCadServicos.resources
